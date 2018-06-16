@@ -6,6 +6,9 @@ P.S. 使用時注意圖片相關路徑(be careful with image path)
 
 ## [Histogram Equalize and Matching](Equalize_and_Matching)
 
+練習 Power Law, Histogram Equalization, Histogram Matching。  
+(Image Processing Homework1)  
+
 ## [Drawing](https://gist.github.com/NaiveRed/06e82f06e8a928de8500ed82c1d8b22f)
 
 新阿姆斯特朗旋風噴射阿姆斯特朗砲  

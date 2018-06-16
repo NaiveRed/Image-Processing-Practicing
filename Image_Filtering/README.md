@@ -8,7 +8,7 @@
 
 Python: 3.6  
 
-`python face_filtering.py`
+`python image_filtering.py`
 
 變數定義  
 ```
